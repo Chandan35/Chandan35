@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandan!
 
-I'm a backend-focused Software Engineer with hands-on experience in building scalable Java applications and real-time features using Firebase. Currently working on projects involving order management, REST APIs, and location-tracking features.
+I'm a passionate Backend Software Engineer who enjoys turning complex problems into clean, scalable solutions. With strong expertise in Java, Spring Boot, and REST APIs, I focus on building microservices and real-time features that power impactful applications.
 
 ---
 
