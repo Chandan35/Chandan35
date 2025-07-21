@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Chandan!
 
-<!--
-**Chandan35/Chandan35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-focused Software Engineer with hands-on experience in building scalable Java applications and real-time features using Firebase. Currently working on projects involving order management, REST APIs, and location-tracking features.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 🔹 Languages
+- Java 8/11+
+- JavaScript / TypeScript
+- HTML5, CSS3
+
+### 🔹 Frameworks & Libraries
+- Spring Boot (REST APIs, Microservices)
+- Angular
+- JPA / Hibernate
+
+### 🔹 Databases
+- MySQL
+- MongoDB (basic)
+- Firebase Firestore
+
+### 🔹 Tools & Platforms
+- IntelliJ IDEA, Eclipse
+- Postman
+- Git & GitHub
+- Maven
+- VS Code
+
+### 🔹 Cloud & DevOps (Learning/Exploring)
+- AWS (basic)
+- Docker (learning phase)
+- Prometheus (query tooling in Angular)
+
+### 🔹 Other
+- Firebase Authentication
+- Realtime Database
+- JSON, REST APIs
+- Agile & Scrum
+
+---
+
+## 🚀 Current Project
+
+### 🧭 EazyTripTrack
+> A real-time group location & chat app for travelers.
+
+- 📍 Live group location sharing
+- 💬 Group chat with media/document/location support
+- 📱 Built using Firebase (Auth, Firestore, Storage)
+- 🧩 Real-time sync using Firestore listeners
+- 🛠️ Tech Stack: Android, Firebase, Java, Firestore
+
+---
+
+## 🔭 Current Projects
+- 🚀 EazyTripTrack – A group location & chat app for travelers.
+
+## 📈 GitHub Stats
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandan35&show_icons=true&theme=tokyonight)
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/chandan-kumar-g-142220196/)
+- [Email](chandankumarg35@gmail.com)
