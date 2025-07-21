@@ -7,43 +7,33 @@ I'm a passionate Backend Software Engineer who enjoys turning complex problems i
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages
-- Java 8/11+
-- JavaScript / TypeScript
+- Java 
+- TypeScript
 - HTML5, CSS3
 
 ### 🔹 Frameworks & Libraries
 - Spring Boot (REST APIs, Microservices)
 - Angular
-- JPA / Hibernate
 
 ### 🔹 Databases
 - MySQL
-- MongoDB (basic)
-- Firebase Firestore
 
 ### 🔹 Tools & Platforms
 - IntelliJ IDEA, Eclipse
 - Postman
 - Git & GitHub
-- Maven
 - VS Code
 
 ### 🔹 Cloud & DevOps (Learning/Exploring)
-- AWS (basic)
-- Docker (learning phase)
-- Prometheus (query tooling in Angular)
 
 ### 🔹 Other
-- Firebase Authentication
-- Realtime Database
-- JSON, REST APIs
 - Agile & Scrum
 
 ---
 
 ## 🚀 Current Project
 
-### 🧭 EazyTripTrack
+### 🧭 EazyTripTrack (In-Progress)
 > A real-time group location & chat app for travelers.
 
 - 📍 Live group location sharing
@@ -53,9 +43,6 @@ I'm a passionate Backend Software Engineer who enjoys turning complex problems i
 - 🛠️ Tech Stack: Android, Firebase, Java, Firestore
 
 ---
-
-## 🔭 Current Projects
-- 🚀 EazyTripTrack – A group location & chat app for travelers.
 
 ## 📈 GitHub Stats
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandan35&show_icons=true&theme=tokyonight)
